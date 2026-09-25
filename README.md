@@ -1,5 +1,8 @@
 # Práctica de Laboratorio: Optimización de Modelos de Datos con GraphQL y DataLoader
 
+**Maestrante:** Cristian Jimenez  
+**Repositorio:** https://github.com/CristianDv7/practica4GraphQLDataLoader.git
+
 Este repositorio contiene el código base para la práctica de la **Unidad 3: Diseño de APIs** en la Maestría de Ingeniería de Software (Materia: *Patrones de Diseño de Software*).
 
 ## 🎯 Objetivo de la Práctica
